@@ -12,16 +12,16 @@
     <a href="mailto:hello@omarzunic.com"><img
             src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
             alt="Email"></a>
+    <a href="https://omarzunic.com/discord"><img
+            src="https://img.shields.io/badge/-DISCORD-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white"
+            alt="Email"></a>
     <a href="https://www.behance.com/omznc"><img
             src="https://img.shields.io/badge/-BEHANCE-1769FF?style=for-the-badge&amp;logo=behance&amp;logoColor=white"
             alt="Behance"></a>
 </p>
 
 ---
-<p>Most of my projects are results of boredom, energy drinks, and the sugar crash aforementioned drinks lead to.<br>I'm currently trying to have fun with Discord.py, well, as much fun as coding can give you.
+<p align="center">Most of my projects are results of boredom, energy drinks, and the sugar crash aforementioned drinks lead to.<br>I'm currently trying to have fun with Discord.py, well, as much fun as coding can give you. Join our little community if you want.
 </p>
-<h2>If you want to hop by and talk, play games, or just lurk, feel free to do so.</h3>
-<br>
-<div align="center">
-<iframe src="https://discordapp.com/widget?id=489114762966466560&theme=dark" width="100%" height="500" allowtransparency="true" frameborder="0"></iframe></div>
+
 
