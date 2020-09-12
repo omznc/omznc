@@ -23,5 +23,5 @@
 <h2>If you want to hop by and talk, play games, or just lurk, feel free to do so.</h3>
 <br>
 <div align="center">
-<iframe src="https://discordapp.com/widget?id=489114762966466560&theme=dark" width="100%" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div>
+<iframe src="https://discordapp.com/widget?id=489114762966466560&theme=dark" width="100%" height="500" allowtransparency="true" frameborder="0"></iframe></div>
 
