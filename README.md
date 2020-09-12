@@ -15,7 +15,7 @@
     <a href="https://omarzunic.com/discord"><img
             src="https://img.shields.io/badge/-DISCORD-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white"
             alt="Email"></a>
-    <a href="https://www.behance.com/omznc"><img
+    <a href="https://www.behance.net/omznc"><img
             src="https://img.shields.io/badge/-BEHANCE-1769FF?style=for-the-badge&amp;logo=behance&amp;logoColor=white"
             alt="Behance"></a>
 </p>
