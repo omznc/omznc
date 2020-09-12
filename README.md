@@ -12,7 +12,7 @@
     <a href="mailto:hello@omarzunic.com"><img
             src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
             alt="Email"></a>
-    <a href="https://www.linkedin.com/in/adammalston/"><img
+    <a href="https://www.behance.com/omznc"><img
             src="https://img.shields.io/badge/-BEHANCE-1769FF?style=for-the-badge&amp;logo=behance&amp;logoColor=white"
             alt="Behance"></a>
 </p>
