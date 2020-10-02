@@ -25,7 +25,8 @@
 </p>
 <h2 align="center">:sparkles: Latest Behance Projects :sparkles:</h2>
 <p float="left" align="center">
+  <a href="https://www.behance.net/gallery/105366433/Boredom-No3-FIT"><img src="https://i.imgur.com/wHe2QJB.png" style="border-radius: 5%;" width="300" /></a>
   <a href="https://www.behance.net/gallery/104169979/Boredom-No2-CERN"><img src="https://i.imgur.com/CEczxZR.png" style="border-radius: 5%;" width="300" /></a>
   <a href="https://www.behance.net/gallery/103095495/Apex"><img src="https://i.imgur.com/L3NgQF4.png" style="border-radius: 5%;" width="300" /></a>
-  <a href="https://www.behance.net/gallery/100975877/Spotify-Playlist-Shenanigans"><img src="https://i.imgur.com/wHe2QJB.png" style="border-radius: 5%;" width="300" /></a>
+  <a href="https://www.behance.net/gallery/100975877/Spotify-Playlist-Shenanigans"><img src="https://i.imgur.com/wHe2QJB.png" style="border-radius: 5%;" width="300" /></a
 </p>
