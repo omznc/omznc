@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! 👋 I'm Omar. <em>How did you stumble upon here?</em></h1>
 <p align="center">
-    <a href="https://omarzunic.com/?utm_source=github&utm_medium=button&utm_campaign=github_readme"><img
+    <a href="https://t.me/omznc"><img
             src="https://img.shields.io/badge/-OMARZUNIC.COM-161616?style=for-the-badge&amp;logoColor=white"
             alt="omarzunic.com"></a>
     <a href="https://blog.omarzunic.com/?utm_source=github&utm_medium=button&utm_campaign=github_readme"><img
