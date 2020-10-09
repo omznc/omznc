@@ -21,7 +21,7 @@
 </p>
 
 ---
-<p align="center">Most of my projects are results of boredom, energy drinks, and the sugar crash aforementioned drinks lead to.<br>I'm currently trying to have fun with Discord.py, well, as much fun as coding can give you. Join our little community if you want.
+<p align="center">Most of my projects are results of boredom, energy drinks, and the sugar crash thereafter.<br>Not sure what I'm doing right now, coding, I guess. Well, as much fun as coding can give you. Join our little Discord Community if you want.
 </p>
 <h2 align="center">:sparkles: Latest Behance Projects :sparkles:</h2>
 <p float="left" align="center">
