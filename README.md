@@ -3,9 +3,6 @@
     <a href="https://t.me/omznc"><img
             src="https://img.shields.io/badge/-OMARZUNIC.COM-161616?style=for-the-badge&amp;logoColor=white"
             alt="omarzunic.com"></a>
-    <a href="https://blog.omarzunic.com/?utm_source=github&utm_medium=button&utm_campaign=github_readme"><img
-            src="https://img.shields.io/badge/-BLOG-161616?style=for-the-badge&amp;logo=ghost&amp;logoColor=white"
-            alt="omarzunic.com"></a>
     <a href="https://t.me/OMZNC"><img
             src="https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white"
             alt="Telegram"></a>
