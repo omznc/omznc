@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! 👋 I'm Omar. <em>How did you stumble upon here?</em></h1>
+<h1 align="center"> Hello! 👋 I'm Omar.</h1>
 <p align="center">
     <a href="https://t.me/omznc"><img
             src="https://img.shields.io/badge/-OMARZUNIC.COM-161616?style=for-the-badge&amp;logoColor=white"
