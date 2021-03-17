@@ -20,6 +20,12 @@
 ---
 <p align="center">Most of my projects are results of boredom, energy drinks, and the sugar crash thereafter.<br>Not sure what I'm doing right now, coding, I guess. Well, as much fun as coding can give you.
 </p>
+
+<p float="left" align="center">
+<a href="https://omarzunic.com"><img src="https://github-readme-stats.vercel.app/api?username=omznc&show_icons=true&theme=dark" width="70%"></a>
+</p>
+
+
 <h2 align="center">:sparkles: Latest Behance Projects :sparkles:</h2>
 <p float="left" align="center">
   <a href="https://www.behance.net/gallery/105366433/Boredom-No3-FIT"><img src="https://i.imgur.com/CbWDjCb.png" style="border-radius: 5%;" width="300" /></a>
