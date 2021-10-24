@@ -18,7 +18,7 @@
 </p>
 
 ---
-<p align="center">Most of my projects are results of boredom, energy drinks, and the sugar crash thereafter.<br>Not sure what I'm doing right now, coding, I guess. Most of my repositories are private, and all of my projects have specific use cases, so even if you see a repository that's public, it's just me sharing my work, and not ready-to-use code you can well, use, without editing the code and adapting it to your situation.
+<p align="center">I create.
 
 <p float="left" align="center">
 <a href="https://omarzunic.com"><img src="https://github-readme-stats.vercel.app/api?username=omznc&show_icons=true&theme=dark" width="70%"></a>
