@@ -15,7 +15,22 @@
     <a href="https://www.behance.net/omznc"><img
             src="https://img.shields.io/badge/-BEHANCE-1769FF?style=for-the-badge&amp;logo=behance&amp;logoColor=white"
             alt="Behance"></a>
+    
 </p>
+
+```python
+def info(extended: bool = False) -> str {
+    temp = {
+        name:"Omar, It's literally right there.",
+        youllprobablysaythis:"Wow, so original with the code block...",
+        myresponse:"Thanks."
+    }
+    if extended:
+        temp["wow"] = "Yeah I just wanted to do this."
+    return temp;
+}
+info(True)
+```
 
 <p align="center">
 
