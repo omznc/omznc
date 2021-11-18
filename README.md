@@ -29,7 +29,7 @@ def info(extended: bool = False) -> str {
         temp["wow"] = "Yeah I just wanted to do this."
     return temp;
 }
-info(True)
+print(info(True))
 ```
 
 <p align="center">
