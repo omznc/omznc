@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! 👋 I'm Omar</h1>
+<h1 align="center"> Hello There, General Kenobi! 👋 </h1>
 <p align="center">
     <a href="https://omarzunic.com"><img
             src="https://img.shields.io/badge/-OMARZUNIC.COM-161616?style=for-the-badge&amp;logoColor=white"
@@ -18,19 +18,6 @@
     
 </p>
 
-```python
-def info(extended: bool = False) -> str {
-    temp = {
-        name:"Omar, It's literally right there.",
-        youllprobablysaythis:"Wow, so original with the code block...",
-        myresponse:"Thanks."
-    }
-    if extended:
-        temp["wow"] = "Yeah I just wanted to do this."
-    return temp;
-}
-print(info(True))
-```
 
 <p align="center">
 
