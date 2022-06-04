@@ -3,9 +3,9 @@
     <a href="https://omarzunic.com"><img
             src="https://img.shields.io/badge/-OMARZUNIC.COM-161616?style=for-the-badge&amp;logoColor=white"
             alt="omarzunic.com"></a>
-    <a href="https://t.me/omznc"><img
-            src="https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white"
-            alt="Telegram"></a>
+    <a href="https://www.linkedin.com/in/omznc/"><img
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn"></a>
     <a href="mailto:hello@omarzunic.com"><img
             src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
             alt="Email"></a>
@@ -26,4 +26,4 @@
 </p>
 <p align="center"><em>Not sure how accurate this is, since only about 5% of my repositories are public, but hey. It's here.</em></p>
 
-You'll mostly see me work in Python or JS/TS, but I'm pretty decent at C++, C# and the web languages. Fun stuff.
+You'll mostly see me work in Python or JS/TS, but I'm pretty decent at C++, C#, and the web languages. Fun stuff.
