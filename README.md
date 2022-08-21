@@ -28,10 +28,9 @@ I'm currently maintaining the following projects:
  - [FIT Student DB](https://docs.google.com/spreadsheets/d/1GeoqfhlyQGjoYnWZ8PPCjwd4IdRmytE6IEkuBmV4KG4/edit#gid=1009813713) - A huge list containing student contacts gotten from multiple sources via scraping.
 
 Working on:
- - Destiny Checkpoints - A peer-to-peer Destiny 2 checkpoints sharing website written in JS, using Bungie's API to detect player locations and fireteam sizes, 
+ - [Destiny Checkpoints](https://checkpointee.imkez.com/) - A Destiny 2 checkpoints sharing website written in TypeScript, using Bungie's API to detect player locations and fireteam sizes. This is my first react project - ever. I just went in head first with next.js and react.
 
 Planned:
- - Untitled Next.js project
  - Mirage - A singleplayer game where the story takes place in your head, as you slowly lose grip to life and reality in an african desert.
 
 <p align="center">
