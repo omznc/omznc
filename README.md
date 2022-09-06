@@ -22,7 +22,7 @@
 I'm a 2nd year software engineering student @ [FIT Mostar](https://fit.ba/).
 
 I'm currently maintaining the following projects:
- - [Slashy](https://github.com/omznc/slashy) - An closed-source (for now) Typescript version of my open-source bot Slashy, built with scale in mind, serving servers totaling over 100k users.
+ - [Slashy](https://github.com/omznc/slashy) - A fully open-source Typescript version of my open-source bot Slashy, built with scale in mind, serving servers totaling over 100k users.
  - [FIT Bot](https://github.com/omznc/discord-fit-bot) - A Novus.py Discord bot for our student community server that does a lot of the heavy lifting.
  - [How Long Can You PEW PEW](https://github.com/FIT-Computer-Graphics/HowLongCanYouPewPew/) - A school game we've made that I've grown to like.
  - [FIT Student DB](https://docs.google.com/spreadsheets/d/1GeoqfhlyQGjoYnWZ8PPCjwd4IdRmytE6IEkuBmV4KG4/edit#gid=1009813713) - A huge list containing student contacts gotten from multiple sources via scraping.
