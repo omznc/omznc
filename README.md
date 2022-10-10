@@ -23,15 +23,13 @@ I'm a 2nd year Software Engineering Student @ [FIT Mostar](https://fit.ba/) and 
 
 I'm currently maintaining the following projects:
  - [Slashy](https://github.com/omznc/slashy) - A fully open-source Typescript version of my open-source bot Slashy, built with scale in mind, serving servers totaling over 100k users.
- - [FIT Bot](https://github.com/omznc/discord-fit-bot) - A Novus.py Discord bot for our student community server that does a lot of the heavy lifting.
- - [How Long Can You PEW PEW](https://github.com/FIT-Computer-Graphics/HowLongCanYouPewPew/) - A school game we've made that I've grown to like.
- - [FIT Student DB](https://docs.google.com/spreadsheets/d/1GeoqfhlyQGjoYnWZ8PPCjwd4IdRmytE6IEkuBmV4KG4/edit#gid=1009813713) - A huge list containing student contacts gotten from multiple sources via scraping.
+ - [VaultFetch](https://github.com/omznc/vaultfetch) - A vault-to-file fetching tool written in Go as my first ever GoLang project.
 
 Working on:
- - [Destiny Checkpoints](https://checkpointee.imkez.com/) - A Destiny 2 checkpoints sharing website written in TypeScript, using Bungie's API to detect player locations and fireteam sizes. This is my first react project - ever. I just went in head first with next.js and react.
+ - [Destiny Checkpoints](https://checkpointee.imkez.com/) - A Destiny 2 checkpoints sharing website written in TypeScript, using Bungie's API to detect player locations and fireteam sizes. This is my first react project - ever.
 
 Planned:
- - Mirage - A singleplayer game where the story takes place in your head, as you slowly lose grip to life and reality in an african desert.
+ - ???
 
 <p align="center">
 <p float="left" align="center">
