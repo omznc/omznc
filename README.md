@@ -23,10 +23,10 @@ I'm a 2nd year Software Engineering Student @ [FIT Mostar](https://fit.ba/) and 
 
 I'm currently maintaining the following projects:
  - [Slashy](https://github.com/omznc/slashy) - A fully open-source Typescript version of my open-source bot Slashy, built with scale in mind, serving servers totaling over 100k users.
- - [VaultFetch](https://github.com/omznc/vaultfetch) - A vault-to-file fetching tool written in Go as my first ever GoLang project.
 
 Working on:
  - [Destiny Checkpoints](https://checkpointee.imkez.com/) - A Destiny 2 checkpoints sharing website written in TypeScript, using Bungie's API to detect player locations and fireteam sizes. This is my first react project - ever.
+    - There's a new secret version I'm working on [here, just don't tell anyone.](https://youcantguessthis.imkez.com)
 
 Planned:
  - ???
