@@ -37,4 +37,4 @@ Planned:
 <p align="center"><em>Not sure how accurate this is, since only about 5% of my repositories are public, but hey. It's here.</em></p>
 
 
-You'll mostly see me work in Python or JS/TS, but I'm pretty decent at C++, C#, and the web languages. Fun stuff.
+You'll mostly see me work in Python or JS/TS, but I'm pretty decent at C++, C#, Go, and the web languages. Fun stuff.
