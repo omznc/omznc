@@ -19,7 +19,7 @@
 </p>
 
 ## Hey there 👋
-I'm a 2nd year Software Engineering Student @ [FIT Mostar](https://fit.ba/) and a DevOps Engineer @ [ZenDev](https://www.zendev.se/en).
+I'm a 21 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/) and a GoLang Backend Engineer @ [ZenDev](https://www.zendev.se/en), among other things.
 
 I'm currently maintaining the following projects:
  - [Slashy](https://github.com/omznc/slashy) - A fully open-source Typescript version of my open-source bot Slashy, built with scale in mind, serving servers totaling over 100k users.
@@ -29,6 +29,9 @@ Working on:
 
 Planned:
  - ???
+
+Finished:
+ - Way too much to list here.
 
 <p align="center">
 <p float="left" align="center">
