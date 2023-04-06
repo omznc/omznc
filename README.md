@@ -22,6 +22,8 @@
 I'm a 21 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/) and a GoLang Backend Engineer @ [ZenDev](https://www.zendev.se/en), among other things.
 
 I'm currently maintaining the following projects:
+ - PetsLink - A mystery, for now.
+ - [Futures Leaders Summit](https://futures-leaders-summit-web.vercel.app/) - Futures Leaders Summit is an event that annually gathers prosperous changemakers in the field of STEM.
  - [Slashy](https://github.com/omznc/slashy) - A fully open-source Typescript version of my open-source bot Slashy, built with scale in mind, serving servers totaling over 100k users.
 
 Working on:
