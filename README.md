@@ -21,13 +21,12 @@
 ## Hey there 👋
 I'm a 22 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/) and a GoLang Backend Engineer @ [ZenDev](https://www.zendev.se/en), among other things.
 
-I'm currently maintaining the following projects:
+I'm currently maintaining or working on the following projects
+ - [SlashJoin](https://slashjoin.com) - A Destiny 2 checkpoints sharing service.
+ - [LiveLaunch Dashboard](https://github.com/omznc/livelaunch-dashboard) - A web-based configuration dashboard for [LiveLaunch](https://github.com/juststephen/LiveLaunch).
+ - [Slashy](https://github.com/omznc/slashy) - A fully open-source Typescript version of my bot Slashy, built with scale in mind, serving servers totaling over 100k users.
+ - [FLS - A personal redesign](https://futures-leaders-summit-web.vercel.app/) - Futures Leaders Summit is an event that annually gathers prosperous changemakers in the field of STEM.
  - PetsLink - A mystery, for now.
- - [Futures Leaders Summit](https://futures-leaders-summit-web.vercel.app/) - Futures Leaders Summit is an event that annually gathers prosperous changemakers in the field of STEM.
- - [Slashy](https://github.com/omznc/slashy) - A fully open-source Typescript version of my open-source bot Slashy, built with scale in mind, serving servers totaling over 100k users.
-
-Working on:
- - [Destiny Checkpoints](https://checkpoints.omarzunic.com/) - A Destiny 2 checkpoints sharing website written in TypeScript, using Bungie's API to detect player locations and fireteam sizes. This is my first react project - ever.
 
 Planned:
  - ???
@@ -42,4 +41,4 @@ Finished:
 <p align="center"><em>Not sure how accurate this is, since only about 5% of my repositories are public, but hey. It's here.</em></p>
 
 
-You'll mostly see me work in Python or JS/TS, but I'm pretty decent at C++, C#, Go, and the web languages. Fun stuff.
+You'll mostly see me work in Typescript & Python, but I'm pretty decent at C++, C#, Go, and the web languages. Currently using Rust for fun, cool stuff.
