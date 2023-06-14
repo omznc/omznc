@@ -9,7 +9,7 @@
     <a href="mailto:hello@omarzunic.com"><img
             src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
             alt="Email"></a>
-    <a href="https://discord.io/FITMostar"><img
+    <a href="https://discord.gg/UN3CjVyjkt"><img
             src="https://img.shields.io/badge/-DISCORD-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white"
             alt="Email"></a>
     <a href="https://www.behance.net/omznc"><img
