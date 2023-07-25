@@ -36,7 +36,7 @@ Finished:
 
 <p align="center">
 <p float="left" align="center">
-<a href="https://omarzunic.com"><img src="https://github-readme-stats.vercel.app/api?username=omznc&show_icons=true&theme=dark" width="50%"></a>
+<a href="https://omarzunic.com"><img src="https://streak-stats.demolab.com/?user=omznc" width="50%"></a>
 </p>
 <p align="center"><em>Not sure how accurate this is, since only about 5% of my repositories are public, but hey. It's here.</em></p>
 
