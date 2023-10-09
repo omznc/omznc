@@ -19,7 +19,7 @@
 </p>
 
 ## Hey there 👋
-I'm a 22 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/) and a GoLang Backend Engineer @ [ZenDev](https://www.zendev.se/en), among other things.
+I'm a 22 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/), among other things.
 
 I'm currently maintaining or working on the following projects
  - [SlashJoin](https://slashjoin.com) - A Destiny 2 checkpoints sharing service.
