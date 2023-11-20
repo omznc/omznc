@@ -22,6 +22,7 @@
 I'm a 22 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/), among other things.
 
 I'm currently maintaining or working on the following projects
+ - [nrush](https://github.com/omznc/nrush) - A rust-based solution to node/bun/deno package updates.
  - [SlashJoin](https://slashjoin.com) - A Destiny 2 checkpoints sharing service.
  - [LiveLaunch Dashboard](https://github.com/omznc/livelaunch-dashboard) - A web-based configuration dashboard for [LiveLaunch](https://github.com/juststephen/LiveLaunch).
  - [Slashy](https://github.com/omznc/slashy) - A fully open-source Typescript version of my bot Slashy, built with scale in mind, serving servers totaling over 100k users.
