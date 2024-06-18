@@ -44,10 +44,4 @@ Finished:
 <p align="center"><em>Not sure how accurate this is, since only about 5% of my repositories are public, but hey. It's here.</em></p>
 
 
-You'll mostly see me work in Typescript & Python, but I'm pretty decent at C++, C#, Go, and the web languages. Currently using Rust for fun, cool stuff.
-
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/omznc/omznc/assets/38432561/631dd21d-03d5-4343-9f94-7403b5ac0f75');]{x0000}$}
-
+You'll mostly see me work in Typescript & Python, but I'm pretty decent at C++, C#, Go, and the web languages. Currently using Rust for fun, cool stuff
