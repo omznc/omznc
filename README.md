@@ -24,18 +24,11 @@ I'm a 23 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/), 
 
 I'm currently maintaining or working on the following projects
  - [nrush](https://github.com/omznc/nrush) - A rust-based solution to node/bun/deno package updates.
- - [DevDuel](https://devduel.vercel.app) - PREVIEW: Sounds pretty self-explanatory.
- - [SlashJoin](https://slashjoin.com) - A Destiny 2 checkpoints sharing service.
- - [LiveLaunch Dashboard](https://github.com/omznc/livelaunch-dashboard) - A web-based configuration dashboard for [LiveLaunch](https://github.com/juststephen/LiveLaunch).
- - [Slashy](https://github.com/omznc/slashy) - A fully open-source Typescript version of my bot Slashy, built with scale in mind, serving servers totaling over 100k users.
- - PetsLink - A mystery, for now.
+ - a secret project
+ - my literal job
 
 Planned:
  - ???
-
-Finished:
- - [FLS - A personal redesign](https://github.com/omznc/futures-leaders-summit-web) - Futures Leaders Summit is an event that annually gathers prosperous changemakers in the field of STEM.
- - Way too much to list here.
 
 <p align="center">
 <p float="left" align="center">
