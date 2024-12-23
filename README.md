@@ -24,6 +24,7 @@ I'm a 23 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/), 
 
 I'm currently maintaining or working on the following projects
  - [nrush](https://github.com/omznc/nrush) - A rust-based solution to node/bun/deno package updates.
+ - a centralized airsoft site for the scene in Bosnia & Herzegovina
  - a secret project
  - my literal job
 
