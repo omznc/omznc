@@ -20,12 +20,11 @@
 </p>
 
 ## Hey there 👋
-I'm a 23 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/), among other things.
+I'm a 24 year-old Software Engineering Student @ [FIT Mostar](https://fit.ba/), among other things.
 
 I'm currently maintaining or working on the following projects
  - [nrush](https://github.com/omznc/nrush) - A rust-based solution to node/bun/deno package updates.
  - [RECONNED](https://github.com/omznc/reconned) - My largest project yet
- - a secret project
  - my literal job
 
 Planned:
